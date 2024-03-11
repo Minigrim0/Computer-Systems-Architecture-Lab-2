@@ -1,0 +1,9 @@
+gpgpu-sim_distribution/
+.ipynb_checkpoints/
+is2202_labs_apps-1/
+_app_cuda_version*
+_cuobjdump*
+*.ptx
+*.ptxas
+*.pdf
+checkpoint_files/*
