@@ -7,3 +7,6 @@ _cuobjdump*
 *.ptxas
 *.pdf
 checkpoint_files/*
+
+# results of hotspot
+*.out
